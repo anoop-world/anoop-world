@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anoop Saseendran
 - 👀 I’m interested in programming and coding.
-- 🌱 I’m currently learning ASP.NET core.
 - 💞️ I’m looking to collaborate on project code.
 - 📫 anoopweb.com
 
